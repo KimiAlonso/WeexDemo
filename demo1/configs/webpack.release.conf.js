@@ -1,3 +1,4 @@
+/* eslint-disable */
 const commonConfig = require('./webpack.common.conf');
 const webpackMerge = require('webpack-merge'); // used to merge webpack configs
 // tools
@@ -9,7 +10,7 @@ const webpack = require('webpack');
 const helper = require('./helper');
 const config = require('./config');
 
-console.log(`${chalk.green(`Package web project at ${chalk.bold(path.resolve('./release/web'))}!`)}`)
+// console.log(`${chalk.green(`Package web project at ${chalk.bold(path.resolve('./release/web'))}!`)}`)
 /**
  * Webpack Plugins
  */

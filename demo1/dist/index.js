@@ -1,3 +1,4 @@
+/* eslint-disable */
 // { "framework": "Vue"} 
 
 /******/ (function(modules) { // webpackBootstrap
@@ -2902,7 +2903,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }
   }), _c('text', {
     staticClass: ["greeting"]
-  }, [_vm._v("The environment is ready!")]), _c('router-view')], 1)
+  }, [_vm._v("The environment is ready! Retr0!")]), _c('router-view')], 1)
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 

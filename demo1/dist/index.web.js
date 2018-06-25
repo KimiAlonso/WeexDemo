@@ -23745,7 +23745,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "greeting",
     staticStyle: _vm.$processStyle(undefined),
     style: (_vm.$processStyle(undefined))
-  }, [_vm._v("The environment is ready!")]), _vm._v(" "), _c('router-view')], 1)
+  }, [_vm._v("The environment is ready! Retr0!")]), _vm._v(" "), _c('router-view')], 1)
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {

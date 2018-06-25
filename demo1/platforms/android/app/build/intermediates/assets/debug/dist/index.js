@@ -1,4 +1,4 @@
-// { "framework": "Vue"} 
+// { "framework": "Vue"}
 
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
